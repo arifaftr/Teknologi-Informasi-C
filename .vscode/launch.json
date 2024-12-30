@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Dasar pemrograman/pertemuan_1/src",
-      "program": "d:/Dasar pemrograman/pertemuan_1/src/build/Debug/outDebug",
+      "cwd": "d:/Dasar pemrograman/responsi/src",
+      "program": "d:/Dasar pemrograman/responsi/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
