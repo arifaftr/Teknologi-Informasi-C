@@ -1,2 +1,2 @@
 ﻿# Teknologi-Informasi-C
- repositori untuk mata kuliah bahasa c
+ repositori untuk mata kuliah dasar pemrograman bahasa c
